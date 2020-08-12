@@ -15,6 +15,12 @@ import javax.servlet.ServletResponse;
 import javax.servlet.annotation.WebServlet;
 
 @WebServlet("/delete")
+
+
+
+
+
+
 public class Delete implements Servlet{
 Connection con=null;
 	@Override
